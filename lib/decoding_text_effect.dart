@@ -135,7 +135,7 @@ class DecodingTextEffect extends StatefulWidget {
     this.textStyle,
     this.textAlign,
     this.refreshDuration,
-    this.eachCount = 3,
+    this.eachCount = 5,
     this.onTap,
     this.onFinished,
   })  : assert(
@@ -187,7 +187,7 @@ class _DecodingTextEffectState extends State<DecodingTextEffect> {
   String _currentString;
   DecodeEffect _effect;
   Duration _refreshDuration;
-  Duration _defaultRefreshDuration = Duration(milliseconds: 10);
+  Duration _defaultRefreshDuration = Duration(milliseconds: 60);
   Timer _timer;
 
   String _getRandomChar(int codePoint) {
