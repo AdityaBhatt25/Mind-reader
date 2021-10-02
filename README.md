@@ -1,6 +1,6 @@
 # mind_reader
 
-A new Flutter project.
+In this project a tried and tested algo is used for predicting what numbers did we selected in mind. Actually its just a mathematical trick😉
 
 ## Getting Started
 
