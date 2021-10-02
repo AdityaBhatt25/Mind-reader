@@ -1,4 +1,4 @@
-# mind_reader
+# Mind_Reader
 
 In this project a tried and tested algo is used for predicting what numbers did we selected in mind. Actually its just a mathematical trick😉
 
@@ -14,3 +14,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Open for suggestions
